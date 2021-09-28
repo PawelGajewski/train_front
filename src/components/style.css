@@ -1,0 +1,22 @@
+.gradient-background {
+  background-image: linear-gradient(135deg, #0a5380, #311742);
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.gradient-background_slider {
+  background-image: linear-gradient(135deg, #0a5380, #311742);
+  height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+.body {
+  width: auto;
+  height: 75vh;
+}
+
+.menu-hover:hover {
+  margin-left: 20px;
+}
